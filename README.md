@@ -32,6 +32,8 @@ P2000 has 1024 CUDA cores and 4GB of GPU memory.
 
 ### Examples
 
-Code examples testing out CUDA performance.
+Code examples testing out CUDA performance and NVIDIA's profiling tools.
 
-* Example vector addition from the [cuda-tutorial.readthedocs.io](https://cuda-tutorial.readthedocs.io/en/latest/tutorials/tutorial01/)
+| Example | Description |
+| --- | --- |
+| Vector Add | Example vector addition from the [cuda-tutorial.readthedocs.io](https://cuda-tutorial.readthedocs.io/en/latest/tutorials/tutorial01/) |
