@@ -36,4 +36,4 @@ Code examples testing out CUDA performance and NVIDIA's profiling tools.
 
 | Example | Description |
 | --- | --- |
-| Vector Add | Example vector addition from the [cuda-tutorial.readthedocs.io](https://cuda-tutorial.readthedocs.io/en/latest/tutorials/tutorial01/) |
+| [Vector Add](./vector_add/) | Example vector addition from the [cuda-tutorial.readthedocs.io](https://cuda-tutorial.readthedocs.io/en/latest/tutorials/tutorial01/) |
