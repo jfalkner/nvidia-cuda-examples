@@ -4,3 +4,5 @@
 *.ptx
 *.cubin
 *.fatbin
+
+vector_add/vector_add
