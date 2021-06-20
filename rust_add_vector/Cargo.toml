@@ -1,0 +1,12 @@
+[package]
+name = "rust_add_vector"
+version = "0.1.0"
+authors = ["Jayson Falkner <jfalkner@gmail.com>"]
+edition = "2018"
+description = "Example from RustCUDA to do vector addition"
+
+
+[dependencies]
+rustacuda = "0.1"
+rustacuda_core = "0.1"
+rustacuda_derive = "0.1"
