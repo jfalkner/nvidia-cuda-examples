@@ -6,3 +6,6 @@
 *.fatbin
 
 vector_add/vector_add
+
+# Rust-related
+Cargo.lock
